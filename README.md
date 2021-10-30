@@ -27,7 +27,7 @@ Teaching Work Experience
 Research Work Experience
 ======
 * Oct, 2018 - Present : Founder & Lead Researcher
-  * NamChain Open Initiative Research Lab, Coimbatore
+  * நம்Chain® Open Initiative Research Lab, Coimbatore
   * Duties included: R&D on Cyber Security, Cyber Awareness, Blockchain & Cryptocurrency
 
 * Jan, 2020 - Sep, 2021: Research Associate
