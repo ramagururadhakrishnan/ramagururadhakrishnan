@@ -11,12 +11,19 @@ Education
   * Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * Thesis Advisor: Dr. M. Sindhu
   * Thesis: Blockchain for the Internet of Vehicles
+  * Responsibilities:
+    * 2017 - 2019 : Student Coordinator, Cyber Security
+    * 2018 : Co-Head, Anokha TechFest
 * _**Aug, 2007 - Apr, 2011: B.Tech in Information Technology**_
   * Kumaraguru College of Technology, Coimbatore
   * Project Advisor: Ms. N. Suganthi
   * Project: An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents
-  * Team Member: Mr. Vignesh GM
-
+    * Team Member: Mr. Vignesh GM
+  * Responsibilities:
+    * 2007 - 2011 : Student Coordinator, Dept of IT
+    * 2009 - 2010 : Secretary, Computer Society of India, KCT Students Chapter
+    * 2009 - 2010 : Student Coordinator, Nature Club
+    * 2010 - 2011 : Editor, Nature Club
 
 Teaching Work Experience
 ======
