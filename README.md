@@ -71,7 +71,14 @@ Industry Work Experience
     * Dept. Level CSR Coordinator
     * Dept. Level ISTQB Certification Coordinator
     * Org. Level CSR Fund Support Coordinator
-  
+
+Honors & Awards
+======
+* Nov, 2021 - **Honorary Doctorate in Social Works** by World Human Rights Protection Commission (WHRPC)
+* Oct, 2020 - **Young Researcher Award 2020** by Institute of Scholars (InSc)
+* Oct, 2015 - **Winner of Bosch Global Ideation Competition - InnoTrip (Sharing Theme)** by Robert Bosch GmBH
+* Mar, 2011 - **Best Outgoing Student 2010-11** by Department of Information Technology, Kumaraguru College of Technology
+* Feb, 2011 - **Cameron Best Outgoing Student Award** by Cameron & Kumaraguru College of Technology
  
 [Publications](https://ramagururadhakrishnan.github.io/publications/)
 ======
