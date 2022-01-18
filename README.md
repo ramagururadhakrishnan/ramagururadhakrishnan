@@ -1,5 +1,5 @@
 <h1>Ramaguru Radhakrishnan</h1>
-Currently working as Assistant Professor at Amrita Vishwa Vidyapeetham, Coimbatore. He is also the Founder of நம்Chain Open Initiative Research Lab, Coimbatore. He is currently pursuing is Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore.
+Currently working as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is currently pursuing his **Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore**.
 
 Education
 ======
@@ -21,10 +21,10 @@ Education
     * Team Member: Mr. Vignesh GM
   * Responsibilities:
     * 2007 - 2011 : Student Coordinator, Dept of IT
+    * 2010 - 2011 : Editor, Nature Club Newsletter
     * 2009 - 2010 : Secretary, Computer Society of India, KCT Students Chapter
     * 2009 - 2010 : Student Coordinator, Nature Club
-    * 2010 - 2011 : Editor, Nature Club
-
+   
 Teaching Work Experience
 ======
 * **Sep, 2021 - Present: Assistant Professor**
@@ -34,7 +34,7 @@ Teaching Work Experience
 Research Work Experience
 ======
 * **Oct, 2018 - Present : Founder & Lead Researcher**
-  * நம்Chain® Open Initiative Research Lab, Coimbatore
+  * [நம்Chain® Open Initiative Research Lab, Coimbatore](https://github.com/NamChain-Open-Initiative-Research-Lab)
   * Duties included: R&D on Cyber Security, Cyber Awareness, Blockchain & Cryptocurrency
 
 * _**Jan, 2020 - Sep, 2021: Research Associate**_
