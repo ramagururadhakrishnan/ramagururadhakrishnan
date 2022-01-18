@@ -1,8 +1,9 @@
-<h1>Ramaguru Radhakrishnan</h1>
+# [Ramaguru Radhakrishnan](https://ramagururadhakrishnan.github.io/)
+
 Currently working as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is currently pursuing his **Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore**.
 
-Education
-======
+## Education
+
 * **Sep, 2021 - Sep, 2025: Doctoral Research**
   * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * Area: Blockchain Technology
@@ -25,14 +26,14 @@ Education
     * 2009 - 2010 : Secretary, Computer Society of India, KCT Students Chapter
     * 2009 - 2010 : Student Coordinator, Nature Club
    
-Teaching Work Experience
-======
+## Teaching Work Experience
+
 * **Sep, 2021 - Present: Assistant Professor**
   * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * Supervisor: Prof. M. Sethumadhavan
 
-Research Work Experience
-======
+## Research Work Experience
+
 * **Oct, 2018 - Present : Founder & Lead Researcher**
   * [நம்Chain® Open Initiative Research Lab, Coimbatore](https://github.com/NamChain-Open-Initiative-Research-Lab)
   * Duties included: R&D on Cyber Security, Cyber Awareness, Blockchain & Cryptocurrency
@@ -42,8 +43,8 @@ Research Work Experience
   * Duties included: R&D on Blockchain Technology & Cryptocurrency
   * Supervisor: Prof. M. Sethumadhavan
 
-Industry Work Experience
-======
+## Industry Work Experience
+
 * _**Jul, 2019 - Dec, 2020: Lead Blockchain Engineer**_
   * Ensurity Technologies, Hyderabad
   * Duties included: R&D on Blockchain Technology & Cryptocurrency
@@ -72,20 +73,20 @@ Industry Work Experience
     * Dept. Level ISTQB Certification Coordinator
     * Org. Level CSR Fund Support Coordinator
 
-Honors & Awards
-======
+## Honors & Awards
+
 * Nov, 2021 - **Honorary Doctorate in Social Works** by World Human Rights Protection Commission (WHRPC)
 * Oct, 2020 - **Young Researcher Award 2020** by Institute of Scholars (InSc)
 * Oct, 2015 - **Winner of Bosch Global Ideation Competition - InnoTrip (Sharing Theme)** by Robert Bosch GmBH
 * Mar, 2011 - **Best Outgoing Student 2010-11** by Department of Information Technology, Kumaraguru College of Technology
 * Feb, 2011 - **Cameron Best Outgoing Student Award** by Cameron & Kumaraguru College of Technology
  
-[Publications](https://ramagururadhakrishnan.github.io/publications/)
-======
+## [Publications](https://ramagururadhakrishnan.github.io/publications/)
 
-[Talks](https://ramagururadhakrishnan.github.io/talks/)
-======
 
-[Teaching](https://ramagururadhakrishnan.github.io/teaching/)
-======
+## [Talks](https://ramagururadhakrishnan.github.io/talks/)
+
+
+## [Teaching](https://ramagururadhakrishnan.github.io/teaching/)
+
 
