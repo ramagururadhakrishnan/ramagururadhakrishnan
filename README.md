@@ -1,6 +1,6 @@
 # [Ramaguru Radhakrishnan](https://ramagururadhakrishnan.github.io/)
 
-Currently working as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is currently pursuing his **Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore**.
+Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is pursuing **Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore**.
 
 ## Education
 
