@@ -6,11 +6,13 @@ Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of
 
 * **Sep, 2021 - Sep, 2025: Doctoral Research**
   * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
+  * CGPA: 9.69/10
   * Area: Blockchain Technology
   * Thesis Advisor: Prof. M. Sethumadhavan
   
 * _**Jul, 2017 - May, 2019: M.Tech in Cyber Security**_
   * Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
+  * CGPA: 8.61/10
   * Thesis Advisor: Dr. M. Sindhu
   * Thesis: Blockchain for the Internet of Vehicles
   * Responsibilities:
@@ -19,6 +21,7 @@ Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of
     
 * _**Aug, 2007 - Apr, 2011: B.Tech in Information Technology**_
   * Kumaraguru College of Technology, Coimbatore
+  * CGPA: 8.70/10
   * Project Advisor: Ms. N. Suganthi
   * Project: An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents
     * Team Member: Mr. Vignesh GM
@@ -30,11 +33,13 @@ Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of
     
  * _**Jun, 2006 - Mar, 2007: Higher Secondary - Computer Science Group**_
     * San Jose Matriculation Higher Secondary School, Mettupalayam 
+    * Percentage: 91.75%
     * Responsibilities:
       * 2006 - 2007 : House Captain, Daffodils
     
  * _**Jun, 1995 - Mar, 2007: Secondary**_
     * San Jose Matriculation Higher Secondary School, Mettupalayam 
+    * Percentage: 83.73%
     * Responsibilities:
       * 2003 - 2004 : House Captain, Bluebells    
     
