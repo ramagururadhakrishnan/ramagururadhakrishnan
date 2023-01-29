@@ -7,13 +7,14 @@ Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of
 * **Sep, 2021 - Sep, 2025: Doctoral Research**
   * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * CGPA: 9.69/10
-  * Area: Formal Methods for Blockchain Technology
+  * Area: Formal Verification of Smart Contracts in Blockchain Technology
   * Thesis Advisor: Prof. M. Sethumadhavan
+  * Thesis Co-Advisor: Dr. K.V. Lakshmy
   
 * _**Jul, 2017 - May, 2019: M.Tech in Cyber Security**_
   * Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * CGPA: 8.61/10
-  * Thesis Advisor: Dr. M. Sindhu
+  * Thesis Advisor: Dr. M. Sindhu and Dr. K.V. Lakshmy
   * Thesis: Blockchain for the Internet of Vehicles
   * Responsibilities:
     * 2017 - 2019 : Student Coordinator, Cyber Security
@@ -24,7 +25,7 @@ Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of
   * CGPA: 8.70/10
   * Project Advisor: Ms. N. Suganthi
   * Project: An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents
-    * Team Member: Mr. Vignesh GM
+    * Team Member: Mr. Vignesh G M
   * Responsibilities:
     * 2007 - 2011 : Student Coordinator, Dept of IT
     * 2010 - 2011 : Editor, Nature Club Newsletter
