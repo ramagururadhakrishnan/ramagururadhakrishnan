@@ -12,7 +12,7 @@ Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of
   * Thesis Co-Advisor: Dr. K.V. Lakshmy
   
 * _**Jul, 2017 - May, 2019: M.Tech in Cyber Security**_
-  * Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
+  * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * CGPA: 8.61/10
   * Thesis Advisor: Dr. M. Sindhu and Dr. K.V. Lakshmy
   * Thesis: Blockchain for the Internet of Vehicles
