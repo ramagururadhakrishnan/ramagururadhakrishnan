@@ -2,20 +2,20 @@
 
 Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is pursuing **Doctoral Research in Formal Methods for Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore**.
 
-## Education
-
+Education
+======
 * **Sep, 2021 - Sep, 2025: Doctoral Research**
-  * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
+  * TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore
   * CGPA: 9.69/10
   * Area: Formal Verification of Smart Contracts in Blockchain Technology
   * Thesis Advisor: Prof. M. Sethumadhavan
   * Thesis Co-Advisor: Dr. K.V. Lakshmy
   
 * _**Jul, 2017 - May, 2019: M.Tech in Cyber Security**_
-  * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
+  * TIFAC-CORE in Cyber Security, School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * CGPA: 8.61/10
   * Thesis Advisor: Dr. M. Sindhu and Dr. K.V. Lakshmy
-  * Thesis: Blockchain for the Internet of Vehicles
+  * Thesis: [Blockchain for the Internet of Vehicles](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-for-the-Internet-of-Vehicles)
   * Responsibilities:
     * 2017 - 2019 : Student Coordinator, Cyber Security
     * 2018 : Co-Head, Anokha TechFest
@@ -24,8 +24,8 @@ Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of
   * Kumaraguru College of Technology, Coimbatore
   * CGPA: 8.70/10
   * Project Advisor: Ms. N. Suganthi
-  * Project: An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents
-    * Team Member: Mr. Vignesh G M
+  * Project: [An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents](https://github.com/Kumaraguru-College-of-Tech/An-Efficient-Key-Management-in-MANET-using-Mobile-Agents)
+    * Team Member: Mr. Vignesh GM
   * Responsibilities:
     * 2007 - 2011 : Student Coordinator, Dept of IT
     * 2010 - 2011 : Editor, Nature Club Newsletter
@@ -36,22 +36,38 @@ Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of
     * San Jose Matriculation Higher Secondary School, Mettupalayam 
     * Percentage: 91.75%
     * Responsibilities:
-      * 2006 - 2007 : House Captain, Daffodils
+      * 2005 - 2006 : House Captain, Daffodils
+      * 2005 - 2006 : President - San Jose Consumer Club
     
  * _**Jun, 1995 - Mar, 2007: Secondary**_
     * San Jose Matriculation Higher Secondary School, Mettupalayam 
     * Percentage: 83.73%
     * Responsibilities:
-      * 2003 - 2004 : House Captain, Bluebells    
-    
-## Teaching Work Experience
+      * 2003 - 2004 : House Captain, Bluebells     
 
-* **Sep, 2021 - Present: Assistant Professor**
-  * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
+Teaching Work Experience
+======
+* **Jun, 2023 - Present: Assistant Professor (Senior Grade)**
+  * TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore
   * Supervisor: Prof. M. Sethumadhavan
+      
+* **Sep, 2021 - May, 2023: Assistant Professor**
+  * TIFAC-CORE in Cyber Security, School of Engineering/Computing, Amrita Vishwa Vidyapeetham, Coimbatore
+  * Supervisor: Prof. M. Sethumadhavan
+  
+* **Non-Academic Responsibilities:**
+    * Feb, 2023 - Present : Mentor - Anokha: Web, Multimedia and Documentation Team
+    * Nov, 2022 - Present : Founder and Mentor - [KOLECT ](https://github.com/KOLECT-Amrita)
+    * Sep, 2022 - Present : Class Advisor - 22CYS B.Tech
+    * Sep, 2022 - Present : Faculty Advisor - [WiCyS Amrita Student Chapter](https://github.com/WiCyS-Amrita)
+    * Apr, 2022 - Present : Faculty Mentor - [CybeReach](https://github.com/CybeReach)
+    * Apr, 2022 - Present : Faculty Coordinator - [Kerala Blockchain Academy Innovation Club](https://b-rig.github.io/Kerala-Blockchain-Academy-Innovation-Club/)
+    * Mar, 2022 - Present : Founder and Mentor - [Blockchain-Research Interest Group](https://github.com/B-RIG)
+    * 2022, 2023 : Department Election Coordinator
+    * 2022 : Gokulashtami Coordinator
 
-## Research Work Experience
-
+Research Work Experience
+======
 * **Oct, 2018 - Present : Founder & Lead Researcher**
   * [நம்Chain® Open Initiative Research Lab, Coimbatore](https://github.com/NamChain-Open-Initiative-Research-Lab)
   * Duties included: R&D on Cyber Security, Cyber Awareness, Blockchain & Cryptocurrency
@@ -61,8 +77,8 @@ Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of
   * Duties included: R&D on Blockchain Technology & Cryptocurrency
   * Supervisor: Prof. M. Sethumadhavan
 
-## Industry Work Experience
-
+Industry Work Experience
+======
 * _**Jul, 2019 - Dec, 2020: Lead Blockchain Engineer**_
   * Ensurity Technologies, Hyderabad
   * Duties included: R&D on Blockchain Technology & Cryptocurrency
