@@ -66,7 +66,7 @@ Teaching Work Experience
     * Apr 2022 - Present: Faculty Coordinator - [Kerala Blockchain Academy Innovation Club](https://b-rig.github.io/Kerala-Blockchain-Academy-Innovation-Club/)
     * Mar 2022 - Present: Founder and Mentor - [Blockchain-Research Interest Group](https://github.com/B-RIG)
     * 2022, 2023: Department Election Coordinator
-    * 2022 : Gokulashtami Coordinator
+    * 2022, 2023 : Gokulashtami Coordinator
 
 Research Work Experience
 ======
