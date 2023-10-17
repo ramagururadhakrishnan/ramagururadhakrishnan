@@ -56,7 +56,8 @@ Teaching Work Experience
   * Supervisor: [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
-    * Jun 2023 - Present: Faculty Co-Advisor - Amrita Toastmasters Club (ATC)
+    * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
+    * Jun 2023 - Present: Faculty Advisor - [Amrita Toastmasters Club (ATC)]()
     * Feb 2023 - Present: Mentor - Anokha: Web, Multimedia, and Documentation Team
     * Nov 2022 - Present: Founder and Mentor - [KOLECT ](https://github.com/KOLECT-Amrita)
     * Sep 2022 - Present: Class Advisor - [22CYS B.Tech](https://github.com/re-bin-d-22ucys)
