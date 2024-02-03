@@ -7,7 +7,7 @@ Education
 * **Sep 2021 - Sep 2025: Doctoral Research**
   * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * CGPA: 9.69/10
-  * Area: Formal Verification of Smart Contracts in Blockchain Technology
+  * Area: Formal Specification and Verification of Blockchain Smart Contracts
   * Thesis Advisor: [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   * Thesis Co-Advisor: [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy)
   
@@ -56,6 +56,7 @@ Teaching Work Experience
   * Supervisor: [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
+    * Feb 2024 - Present: Coordinator and Member: Ayudh
     * Nov 2023 - Present: Mentor - Anokha: Techfair Exhibitions
     * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
     * Jun 2023 - Present: Faculty Advisor - [Amrita Toastmasters Club (ATC)]()
