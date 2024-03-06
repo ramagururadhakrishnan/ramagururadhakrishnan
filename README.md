@@ -6,27 +6,27 @@ Education
 ======
 * **Sep 2021 - Sep 2025: Doctoral Research**
   * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
-  * CGPA: 9.69/10
-  * Area: Formal Specification and Verification of Blockchain Smart Contracts
-  * Thesis Advisor: [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
-  * Thesis Co-Advisor: [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy)
+  * **CGPA:** 9.69/10
+  * **Area:** Formal Specification and Verification of Blockchain Smart Contracts
+  * **Thesis Advisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
+  * **Thesis Co-Advisor:** [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy)
   
 * _**Jul 2017 - May 2019: M.Tech in Cyber Security**_
   * TIFAC-CORE in Cyber Security, School of Engineering, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
-  * CGPA: 8.61/10
-  * Thesis Advisor: Dr. M. Sindhu and Dr. K.V. Lakshmy
-  * Thesis: [Blockchain for the Internet of Vehicles](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-for-the-Internet-of-Vehicles)
-  * Responsibilities:
+  * **CGPA:** 8.61/10
+  * **Thesis Advisor:** Dr. M. Sindhu and Dr. K.V. Lakshmy
+  * **Thesis:** [Blockchain for the Internet of Vehicles](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-for-the-Internet-of-Vehicles)
+  * **Responsibilities:**
     * 2017 - 2019: Student Coordinator, Cyber Security
     * 2018 : Co-Head, Anokha TechFest
     
 * _**Aug 2007 - Apr 2011: B.Tech in Information Technology**_
   * [Kumaraguru College of Technology](https://www.kct.ac.in/), Coimbatore
-  * CGPA: 8.70/10
-  * Project Advisor: Ms. N. Suganthi
-  * Project: [An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents](https://github.com/Kumaraguru-College-of-Tech/An-Efficient-Key-Management-in-MANET-using-Mobile-Agents)
-    * Team Member: Mr. Vignesh GM
-  * Responsibilities:
+  * **CGPA:** 8.70/10
+  * **Project Advisor:** Ms. N. Suganthi
+  * **Project:** [An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents](https://github.com/Kumaraguru-College-of-Tech/An-Efficient-Key-Management-in-MANET-using-Mobile-Agents)
+    * **Team Member:** Mr. Vignesh GM
+  * **Responsibilities:**
     * 2007 - 2011: Student Coordinator, Dept of IT
     * 2010 - 2011: Editor, Nature Club Newsletter
     * 2009 - 2010: Secretary, Computer Society of India, KCT Students Chapter
@@ -34,28 +34,29 @@ Education
     
  * _**Jun 2006 - Mar 2007: Higher Secondary - Computer Science Group**_
     * San Jose Matriculation Higher Secondary School, Mettupalayam 
-    * Percentage: 91.75%
-    * Responsibilities:
+    * **Percentage:** 91.75%
+    * **Responsibilities:**
       * 2005 - 2006: House Captain, Daffodils
       * 2005 - 2006: President - San Jose Consumer Club
     
  * _**Jun 1995 - Mar 2007: Secondary**_
     * San Jose Matriculation Higher Secondary School, Mettupalayam 
-    * Percentage: 83.73%
-    * Responsibilities:
+    * **Percentage:** 83.73%
+    * **Responsibilities:**
       * 2003 - 2004: House Captain, Bluebells     
 
 Teaching Work Experience
 ======
 * **Jun 2023 - Present: Assistant Professor (Senior Grade)**
   * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
-  * Supervisor: [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
+  * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
       
 * **Sep 2021 - May 2023: Assistant Professor**
   * TIFAC-CORE in Cyber Security, School of Engineering/Computing, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
-  * Supervisor: [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
+  * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
+    * Feb 2024 - Present: Faculty Advisor - Hyperledger India Chapter Student Society (HICSS) Chapter Amrita Vishwa Vidyapeetham
     * Feb 2024 - Present: Coordinator and Member: Ayudh
     * Nov 2023 - Present: Mentor - Anokha: Techfair Exhibitions
     * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
@@ -96,7 +97,7 @@ Industry Work Experience
 * _**Jul 2011 - Dec 2015: Senior Software Engineer (Joined as Associate Software Engineer)**_
   * Robert Bosch Engineering and Business Solutions Private Ltd, Coimbatore
   * Duties included: System Testing of Automotive Infotainment Units
-  * Supervisor(s)
+  * **Supervisor(s)**
     * Mr. Senthil G
     * Mr. Viswanath R
     * Mr. Kilikannan S
@@ -104,7 +105,7 @@ Industry Work Experience
     * Ms. Anjana R
     * Ms. Kavitha R
     * Mr. Jagadeesan D
-  * Additional Responsibilities
+  * **Additional Responsibilities**
     * Dept. Level Training Coordinator
     * Dept. Level Asset Coordinator
     * Dept. Level CSR Coordinator
