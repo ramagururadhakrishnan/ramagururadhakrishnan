@@ -1,12 +1,12 @@
 # [Ramaguru Radhakrishnan](https://ramagururadhakrishnan.github.io/)
 
-Works as **Assistant Professor at TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is pursuing **Doctoral Research in Formal Methods for Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore**.
+Works as **Assistant Professor (Senior Grade)** at TIFAC-CORE in Cyber Security, Amrita School of Engineering, **Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is pursuing **Doctoral Research** in Formal Methods for Blockchain Technology from **Amrita Vishwa Vidyapeetham, Coimbatore**.
 
 Education
 ======
 * **Sep 2021 - Sep 2025: Doctoral Research**
   * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
-  * **CGPA:** 9.69/10
+  * **CGPA:** 9.71/10
   * **Area:** Formal Specification and Verification of Blockchain Smart Contracts
   * **Thesis Advisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   * **Thesis Co-Advisor:** [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy)
@@ -56,7 +56,7 @@ Teaching Work Experience
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
-    * Feb 2024 - Present: Faculty Advisor - Hyperledger India Chapter Student Society (HICSS) Chapter Amrita Vishwa Vidyapeetham
+    * Mar 2024 - Present: Faculty Advisor - [Hyperledger India Chapter Student Society (HICSS) Chapter Amrita Vishwa Vidyapeetham](https://github.com/HICSS-Amrita)
     * Feb 2024 - Present: Coordinator and Member: Ayudh
     * Nov 2023 - Present: Mentor - Anokha: Techfair Exhibitions
     * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
@@ -68,8 +68,8 @@ Teaching Work Experience
     * Apr 2022 - Present: Faculty Mentor - [CybeReach](https://github.com/CybeReach)
     * Apr 2022 - Present: Faculty Coordinator - [Kerala Blockchain Academy Innovation Club](https://b-rig.github.io/Kerala-Blockchain-Academy-Innovation-Club/)
     * Mar 2022 - Present: Founder and Mentor - [Blockchain-Research Interest Group](https://github.com/B-RIG)
+    * 2022, 2023, 2024 : Gokulashtami Overall Coordinator
     * 2022, 2023: Department Election Coordinator
-    * 2022, 2023 : Gokulashtami Coordinator
 
 Research Work Experience
 ======
