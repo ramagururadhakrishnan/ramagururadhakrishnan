@@ -6,7 +6,7 @@ Education
 ======
 * **Sep 2021 - Sep 2025: Doctoral Research**
   * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
-  * **CGPA:** 9.71/10
+  * **CGPA:** 9.75/10
   * **Area:** Formal Specification and Verification of Blockchain Smart Contracts
   * **Thesis Advisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   * **Thesis Co-Advisor:** [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy)
@@ -56,21 +56,24 @@ Teaching Work Experience
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
+    * Sept 2024 - Present: Dept. ICPC Coordinator 
     * Mar 2024 - Present: Faculty Advisor - [Hyperledger India Chapter Student Society (HICSS) Chapter Amrita Vishwa Vidyapeetham](https://github.com/HICSS-Amrita)
     * Feb 2024 - Present: Coordinator and Member: Ayudh
     * Nov 2023 - Present: Mentor - Anokha: Techfair Exhibitions
     * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
     * Jun 2023 - Present: Faculty Advisor - [Amrita Toastmasters Club (ATC)]()
-    * Feb 2023 - Present: Mentor - Anokha: Web, Multimedia, and Documentation (WMD) 
+    * Feb 2023 - Present: Mentor - Anokha: Web, Multimedia, and Documentation (WMD)
+    * 2023, 2024: Mentor - Cyber Awareness Month (CAM)
     * Nov 2022 - Present: Founder and Mentor - [KOLECT ](https://github.com/KOLECT-Amrita)
     * Sep 2022 - Present: Class Advisor - [22CYS B.Tech](https://github.com/re-bin-d-22ucys)
     * Sep 2022 - Present: Faculty Advisor - [WiCyS Amrita Student Chapter](https://github.com/WiCyS-Amrita)
     * Apr 2022 - Present: Faculty Mentor - [CybeReach](https://github.com/CybeReach)
     * Apr 2022 - Present: Faculty Coordinator - [Kerala Blockchain Academy Innovation Club](https://b-rig.github.io/Kerala-Blockchain-Academy-Innovation-Club/)
     * Mar 2022 - Present: Founder and Mentor - [Blockchain-Research Interest Group](https://github.com/B-RIG)
+    * 2022 - Present: ICPC Coach
     * 2022, 2023, 2024 : Gokulashtami Overall Coordinator
     * 2022, 2023: Department Election Coordinator
-
+    
 Research Work Experience
 ======
 * **Oct 2018 - Present: Founder & Lead Researcher**
