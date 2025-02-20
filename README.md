@@ -57,10 +57,10 @@ Teaching Work Experience
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
+    * Dec 2024 - Present: Core Team Member - Institute Innovation Council (IIC)
     * Sept 2024 - Present: Dept. ICPC Coordinator 
     * Mar 2024 - Present: Faculty Advisor - [Hyperledger India Chapter Student Society (HICSS) Chapter Amrita Vishwa Vidyapeetham](https://github.com/HICSS-Amrita)
-    * Feb 2024 - Present: Coordinator and Member: Ayudh
-    * Nov 2023 - Present: Mentor - Anokha: Techfair Exhibitions
+    * Nov 2023 - Present: Mentor - Anokha: TechFair & Exhibitions
     * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
     * Jun 2023 - Present: Faculty Advisor - [Amrita Toastmasters Club (ATC)]()
     * Feb 2023 - Present: Mentor - Anokha: Web, Multimedia, and Documentation (WMD)
