@@ -118,6 +118,7 @@ Industry Work Experience
 
 ## Honors & Awards
 
+* Apr 2025 - **Chancellor’s Publication Excellence Award** and **Chancellor’s Award for Extramural Grant** by AIRA Awards - Amrita Vishwa Vidyapeetham
 * Oct 2020 - **Young Researcher Award 2020** by Institute of Scholars (InSc)
 * Oct 2015 - **Winner of Bosch Global Ideation Competition - InnoTrip (Sharing Theme)** by Robert Bosch GmBH
 * Mar 2011 - **Best Outgoing Student 2010-11** by Department of Information Technology, Kumaraguru College of Technology
