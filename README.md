@@ -48,7 +48,7 @@ Education
 
 Teaching Work Experience
 ======
-* **Jun 2023 - Present: Assistant Professor (Senior Grade)**
+* **Jun 2023 - Present: Assistant Professor (Senior Grade) - Teaching Track**
   * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
       
@@ -57,6 +57,7 @@ Teaching Work Experience
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
+    * Jun 2025 - Present: Convenor - Institute Innovation Council (IIC)
     * Dec 2024 - Present: Core Team Member - Institute Innovation Council (IIC)
     * Sept 2024 - Present: Dept. ICPC Coordinator 
     * Mar 2024 - Present: Faculty Advisor - [Hyperledger India Chapter Student Society (HICSS) Chapter Amrita Vishwa Vidyapeetham](https://github.com/HICSS-Amrita)
