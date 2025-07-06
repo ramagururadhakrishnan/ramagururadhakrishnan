@@ -7,7 +7,7 @@ Education
 * **Sep 2021 - Aug 2026: Doctoral Research**
   * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **CGPA:** 9.75/10
-  * **Status:** Course Work Completed
+  * **Status:** Comprehensive Examination Completed
   * **Area:** Formal Specification and Verification of Blockchain Smart Contracts
   * **Thesis Advisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   * **Thesis Co-Advisor:** [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy)
