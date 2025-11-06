@@ -4,7 +4,7 @@ Works as **Assistant Professor (Senior Grade)** at TIFAC-CORE in Cyber Security,
 
 Education
 ======
-* **Sep 2021 - Aug 2026: Doctoral Research**
+* **Sep 2021 - Feb 2027: Doctoral Research**
   * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **CGPA:** 9.75/10
   * **Status:** Comprehensive Examination Completed
