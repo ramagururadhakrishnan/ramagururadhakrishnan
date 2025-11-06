@@ -10,7 +10,7 @@ Education
   * **Status:** Comprehensive Examination Completed
   * **Area:** Formal Specification and Verification of Blockchain Smart Contracts
   * **Thesis Advisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
-  * **Thesis Co-Advisor:** [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy)
+  * **Thesis Co-Advisor:** [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy) and [Dr. Jevitha K P](https://www.amrita.edu/faculty/kp-jevitha/)
   
 * _**Jul 2017 - May 2019: M.Tech in Cyber Security**_
   * TIFAC-CORE in Cyber Security, School of Engineering, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
