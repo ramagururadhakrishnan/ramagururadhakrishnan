@@ -5,7 +5,7 @@ Works as **Assistant Professor (Senior Grade)** at TIFAC-CORE in Cyber Security,
 Education
 ======
 * **Sep 2021 - Feb 2027: Doctoral Research**
-  * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
+  * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **CGPA:** 9.75/10
   * **Status:** Comprehensive Examination Completed
   * **Area:** Formal Specification and Verification of Blockchain Smart Contracts
@@ -13,7 +13,7 @@ Education
   * **Thesis Co-Advisor:** [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy) and [Dr. Jevitha K P](https://www.amrita.edu/faculty/kp-jevitha/)
   
 * _**Jul 2017 - May 2019: M.Tech in Cyber Security**_
-  * TIFAC-CORE in Cyber Security, School of Engineering, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
+  * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), School of Engineering, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **CGPA:** 8.61/10
   * **Thesis Advisor:** [Dr. M. Sindhu](https://www.amrita.edu/faculty/m_sindhu) and [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy)
   * **Thesis:** [Blockchain for the Internet of Vehicles](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-for-the-Internet-of-Vehicles)
@@ -49,17 +49,17 @@ Education
 Teaching Work Experience
 ======
 * **Jun 2023 - Present: Assistant Professor (Senior Grade) - Teaching Track**
-  * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
+  * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
       
 * **Sep 2021 - May 2023: Assistant Professor**
-  * TIFAC-CORE in Cyber Security, School of Engineering/Computing, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
+  * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), School of Engineering/Computing, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
-    * Aug 2025 - Present : Head - Outreach and Communication, ICPC Asia West Amritapuri Regionals
-    * Jun 2025 - Present: Convener - Institute Innovation Council (IIC)
-    * Dec 2024 - Present: Core Team Member - Institute Innovation Council (IIC)
+    * Aug 2025 - Present : Head - Outreach and Communication, [ICPC Asia West Amritapuri Regionals](https://amritaicpc.in/)
+    * Jun 2025 - Present: Convener - [Institute Innovation Council (IIC)](https://www.amrita.edu/campus/coimbatore/iic)
+    * Dec 2024 - Present: Core Team Member - [Institute Innovation Council (IIC)](https://www.amrita.edu/campus/coimbatore/iic)
     * Sept 2024 - Present: Dept. ICPC Coordinator 
     * Nov 2023 - Present: Mentor - Anokha: TechFair & Exhibitions
     * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
@@ -83,7 +83,7 @@ Research Work Experience
   * Duties included: R&D on Cyber Security, Cyber Awareness, Blockchain & Cryptocurrency
 
 * _**Jan 2020 - Sep 2021: Research Associate**_
-  * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
+  * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * Duties included: R&D on Blockchain Technology & Cryptocurrency
   * Supervisor: Prof. M. Sethumadhavan
 
@@ -130,5 +130,3 @@ Industry Work Experience
 ## [Talks](https://ramagururadhakrishnan.github.io/talks/)
 
 ## [Teaching](https://ramagururadhakrishnan.github.io/teaching/)
-
-
