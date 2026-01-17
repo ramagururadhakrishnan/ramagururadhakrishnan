@@ -1,6 +1,6 @@
 # [Ramaguru Radhakrishnan](https://ramagururadhakrishnan.github.io/)
 
-Works as **Assistant Professor (Senior Grade)** at TIFAC-CORE in Cyber Security, Amrita School of Engineering, **Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is pursuing **Doctoral Research** in _Formal Specification and Verification of Blockchain Smart Contracts_ from **Amrita Vishwa Vidyapeetham, Coimbatore**.
+Works as **Assistant Professor (Senior Grade)** at TIFAC-CORE in Cyber Security, Amrita School of Engineering, **Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is pursuing **Doctoral Research** in _A Formal Methods Framework for Verifying Semantic Security and Incentive Robustness in Smart Contracts_ from **Amrita Vishwa Vidyapeetham, Coimbatore**.
 
 Education
 ======
@@ -57,14 +57,15 @@ Teaching Work Experience
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
+    * Jan 2026 - Present: Convener - Anokha TechFair & Exhibitions
     * Aug 2025 - Present : Head - Outreach and Communication, [ICPC Asia West Amritapuri Regionals](https://amritaicpc.in/)
     * Jun 2025 - Present: Convener - [Institute Innovation Council (IIC)](https://www.amrita.edu/campus/coimbatore/iic)
     * Dec 2024 - Present: Core Team Member - [Institute Innovation Council (IIC)](https://www.amrita.edu/campus/coimbatore/iic)
     * Sept 2024 - Present: Dept. ICPC Coordinator 
-    * Nov 2023 - Present: Mentor - Anokha: TechFair & Exhibitions
+    * Nov 2023 - Dec 2025: Mentor - Anokha: TechFair & Exhibitions
     * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
     * Jun 2023 - Present: Faculty Advisor - [Amrita Toastmasters Club (ATC)]()
-    * Feb 2023 - Present: Mentor - Anokha: Web, Multimedia, and Documentation (WMD)
+    * Feb 2023 - Dec 2025: Mentor - Anokha: Web, Multimedia, and Documentation (WMD)
     * 2023, 2024: Mentor - Cyber Awareness Month (CAM)
     * Nov 2022 - Present: Founder and Mentor - [KOLECT ](https://github.com/KOLECT-Amrita)
     * Sep 2022 - Present: Class Advisor - [22CYS B.Tech](https://github.com/re-bin-d-22ucys)
