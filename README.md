@@ -8,7 +8,7 @@ Education
   * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **CGPA:** 9.75/10
   * **Status:** Comprehensive Examination Completed
-  * **Area:** Formal Specification and Verification of Blockchain Smart Contracts
+  * **Title:** A Formal Methods Framework for Verifying Semantic Security and Incentive Robustness in Smart Contracts
   * **Thesis Advisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   * **Thesis Co-Advisor:** [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy) and [Dr. Jevitha K P](https://www.amrita.edu/faculty/kp-jevitha/)
   
