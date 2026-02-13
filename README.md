@@ -1,10 +1,10 @@
 # [Ramaguru Radhakrishnan](https://ramagururadhakrishnan.github.io/)
 
-Works as **Assistant Professor (Senior Grade)** at TIFAC-CORE in Cyber Security, Amrita School of Engineering, **Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is pursuing **Doctoral Research** in _A Formal Methods Framework for Verifying Semantic Security and Incentive Robustness in Smart Contracts_ from **Amrita Vishwa Vidyapeetham, Coimbatore**.
+Works as **Assistant Professor (Senior Grade)** at TIFAC-CORE in Cyber Security, Amrita School of Engineering/Computing, **Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is pursuing **Doctoral Research** in _A Formal Methods Framework for Verifying Semantic Security and Incentive Robustness in Smart Contracts_ from **Amrita Vishwa Vidyapeetham, Coimbatore**.
 
 Education
 ======
-* **Sep 2021 - Feb 2027: Doctoral Research**
+* **Sep 2021 - Feb 2028: Doctoral Research**
   * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **CGPA:** 9.75/10
   * **Status:** Comprehensive Examination Completed
