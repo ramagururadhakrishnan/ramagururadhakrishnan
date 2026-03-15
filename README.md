@@ -1,6 +1,10 @@
 # [Ramaguru Radhakrishnan](https://ramagururadhakrishnan.github.io/)
 
-Works as **Assistant Professor (Senior Grade)** at TIFAC-CORE in Cyber Security, Amrita School of Engineering/Computing, **Amrita Vishwa Vidyapeetham, Coimbatore**. He is also the **Founder of நம்Chain® Open Initiative Research Lab, Coimbatore**. He is pursuing **Doctoral Research** in _A Formal Methods Framework for Verifying Semantic Security and Incentive Robustness in Smart Contracts_ from **Amrita Vishwa Vidyapeetham, Coimbatore**.
+He serves as an **Assistant Professor (Senior Grade)** at **TIFAC-CORE in Cyber Security**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore. He is also the **Founder of the நம்Chain® Open Initiative Research Lab**, Coimbatore.
+
+He is currently pursuing his Doctoral Research at Amrita Vishwa Vidyapeetham, Coimbatore, focusing on “_A Formal Methods Framework for Verifying Semantic Security and Incentive Robustness in Smart Contracts._”
+
+With over a decade of experience, he has been actively involved in _teaching, research, training, and industry collaborations_, particularly in the areas of cyber security, blockchain technologies, and formal methods for smart contract verification.
 
 Education
 ======
@@ -57,25 +61,27 @@ Teaching Work Experience
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
-    * Jan 2026 - Present: Convener - Anokha TechFair & Exhibitions
-    * Aug 2025 - Present : Head - Outreach and Communication, [ICPC Asia West Amritapuri Regionals](https://amritaicpc.in/)
-    * Jun 2025 - Present: Convener - [Institute Innovation Council (IIC)](https://www.amrita.edu/campus/coimbatore/iic)
-    * Dec 2024 - Present: Core Team Member - [Institute Innovation Council (IIC)](https://www.amrita.edu/campus/coimbatore/iic)
-    * Sept 2024 - Present: Dept. ICPC Coordinator 
-    * Nov 2023 - Dec 2025: Mentor - Anokha: TechFair & Exhibitions
-    * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
-    * Jun 2023 - Present: Faculty Advisor - [Amrita Toastmasters Club (ATC)]()
-    * Feb 2023 - Dec 2025: Mentor - Anokha: Web, Multimedia, and Documentation (WMD)
-    * 2023, 2024: Mentor - Cyber Awareness Month (CAM)
-    * Nov 2022 - Present: Founder and Mentor - [KOLECT ](https://github.com/KOLECT-Amrita)
-    * Sep 2022 - Present: Class Advisor - [22CYS B.Tech](https://github.com/re-bin-d-22ucys)
-    * Sep 2022 - Present: Faculty Advisor - [WiCyS Amrita Student Chapter](https://github.com/WiCyS-Amrita)
-    * Apr 2022 - Present: Faculty Mentor - [CybeReach](https://github.com/CybeReach)
-    * Apr 2022 - Present: Faculty Coordinator - [Kerala Blockchain Academy Innovation Club](https://b-rig.github.io/Kerala-Blockchain-Academy-Innovation-Club/)
-    * Mar 2022 - Present: Founder and Mentor - [Blockchain-Research Interest Group](https://github.com/B-RIG)
-    * 2022 - Present: ICPC Coach
-    * 2022, 2023, 2024 : Gokulashtami Overall Coordinator
-    * 2022, 2023: Department Election Coordinator
+    * **Current Positions:**
+        * Jan 2026 - Present: Convener - Anokha TechFair & Exhibitions
+        * Aug 2025 - Present : Head - Outreach and Communication, [ICPC Asia West Amritapuri Regionals](https://amritaicpc.in/)
+        * Jun 2025 - Present: Convener - [Institute Innovation Council (IIC)](https://www.amrita.edu/campus/coimbatore/iic)
+        * Dec 2024 - Present: Core Team Member - [Institute Innovation Council (IIC)](https://www.amrita.edu/campus/coimbatore/iic)
+        * Sept 2024 - Present: Dept. ICPC Coordinator 
+        * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
+        * Jun 2023 - Present: Faculty Advisor - [Amrita Toastmasters Club (ATC)]()
+        * 2023, 2024: Mentor - Cyber Awareness Month (CAM)
+        * Nov 2022 - Present: Founder and Mentor - [KOLECT ](https://github.com/KOLECT-Amrita)
+        * Sep 2022 - Present: Class Advisor - [22CYS B.Tech](https://github.com/re-bin-d-22ucys)
+        * Sep 2022 - Present: Faculty Advisor - [WiCyS Amrita Student Chapter](https://github.com/WiCyS-Amrita)
+        * Apr 2022 - Present: Faculty Mentor - [CybeReach](https://github.com/CybeReach)
+        * Apr 2022 - Present: Faculty Coordinator - [Kerala Blockchain Academy Innovation Club](https://b-rig.github.io/Kerala-Blockchain-Academy-Innovation-Club/)
+        * Mar 2022 - Present: Founder and Mentor - [Blockchain-Research Interest Group](https://github.com/B-RIG)
+        * 2022 - Present: ICPC Coach
+    * **Past Positions:**
+        * Nov 2023 - Dec 2025: Mentor - Anokha: TechFair & Exhibitions
+        * Feb 2023 - Dec 2025: Mentor - Anokha: Web, Multimedia, and Documentation (WMD)
+        * 2022, 2023, 2024 : Gokulashtami Overall Coordinator
+        * 2022, 2023: Department Election Coordinator
     
 Research Work Experience
 ======
