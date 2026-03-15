@@ -32,7 +32,7 @@ Education
   * **Project:** [An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents](https://github.com/Kumaraguru-College-of-Tech/An-Efficient-Key-Management-in-MANET-using-Mobile-Agents)
     * **Team Member:** Mr. Vignesh GM
   * **Responsibilities:**
-    * 2007 - 2011: Student Coordinator, Dept of IT
+    * 2007 - 2011: Student Coordinator, Dept of Information Technololgy
     * 2010 - 2011: Editor, Nature Club Newsletter
     * 2009 - 2010: Secretary, Computer Society of India, KCT Students Chapter
     * 2009 - 2010: Student Coordinator, Nature Club
@@ -71,7 +71,6 @@ Teaching Work Experience
         * Jun 2023 - Present: Faculty Advisor - [Amrita Toastmasters Club (ATC)]()
         * 2023, 2024: Mentor - Cyber Awareness Month (CAM)
         * Nov 2022 - Present: Founder and Mentor - [KOLECT ](https://github.com/KOLECT-Amrita)
-        * Sep 2022 - Present: Class Advisor - [22CYS B.Tech](https://github.com/re-bin-d-22ucys)
         * Sep 2022 - Present: Faculty Advisor - [WiCyS Amrita Student Chapter](https://github.com/WiCyS-Amrita)
         * Apr 2022 - Present: Faculty Mentor - [CybeReach](https://github.com/CybeReach)
         * Apr 2022 - Present: Faculty Coordinator - [Kerala Blockchain Academy Innovation Club](https://b-rig.github.io/Kerala-Blockchain-Academy-Innovation-Club/)
@@ -80,6 +79,7 @@ Teaching Work Experience
     * **Past Positions:**
         * Nov 2023 - Dec 2025: Mentor - Anokha: TechFair & Exhibitions
         * Feb 2023 - Dec 2025: Mentor - Anokha: Web, Multimedia, and Documentation (WMD)
+        * Sep 2022 - Mar 2026: Class Advisor - [22CYS B.Tech](https://github.com/re-bin-d-22ucys)
         * 2022, 2023, 2024 : Gokulashtami Overall Coordinator
         * 2022, 2023: Department Election Coordinator
     
